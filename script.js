@@ -90,7 +90,9 @@ function generatePassword() {
     window.alert(
       "Password length has to be atleast 8 characters and no more than 128 characters."
     );
-    passLength = window.prompt("Enter password length:");
+    passLength = window.prompt(
+      "Enter password length between 8 and 128 characters:"
+    );
   }
   //prompt user to choose what to include in password
   includeNum = window.confirm("Do you want numbers included?");
