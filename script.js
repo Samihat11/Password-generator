@@ -82,7 +82,9 @@ function writePassword() {
 function generatePassword() {
   let userChoice = [];
   //prompt user to input password length
-  passLength = window.prompt("Enter password length:");
+  passLength = window.prompt(
+    "Enter password length between 8 and 128 characters:"
+  );
   //validate the password is between 8 and 128, and not empty
   while (passLength < 8 || passLength > 128 || passLength === " ") {
     window.alert(
