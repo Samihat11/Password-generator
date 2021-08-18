@@ -35,7 +35,7 @@ How it works:
 
 <img width="572" alt="Screen Shot 2021-08-14 at 6 22 39 PM" src="https://user-images.githubusercontent.com/76274620/129461854-f90384b1-75b7-41c9-916f-151a03eb1172.png">
 
-\*In the image above password length is 9 and all password options was chosen.
+\*In the image above password length is 9 and all password options were chosen.
 
 ### Links
 
